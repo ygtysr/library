@@ -1,0 +1,10 @@
+.metadata/
+RemoteSystemsTempFiles/.project
+*.o
+linkList/.settings/language.settings.xml
+linkList/.settings/org.eclipse.cdt.managedbuilder.core.prefs
+*.cproject
+linkList/.Makefile.swp
+binaryTree/.project
+binaryTree/.settings/language.settings.xml
+linkList/.project
