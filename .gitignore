@@ -10,3 +10,4 @@ binaryTree/.settings/language.settings.xml
 linkList/.project
 *.mk
 binaryTree/Debug/makefile
+binaryTree/.settings/org.eclipse.cdt.managedbuilder.core.prefs
