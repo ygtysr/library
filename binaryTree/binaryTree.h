@@ -30,8 +30,10 @@ typedef struct _binaryTree {
 #define BINARY_TREE_SIZE 			(sizeof(binaryTree_t))
 #define BINARY_TREE_NODE_SIZE		(sizeof(treeNode_t))
 
+
 binaryTree_t* createBinaryTree(void);
-treeNode_t insertItem(binaryTree_t *pHandle, TREE_DATATYPE val);
-treeNode_t findItem(binaryTree_t *pHandle, TREE_DATATYPE val);
+treeNode_t* insertItem(binaryTree_t *pHandle, TREE_DATATYPE val);
+treeNode_t* findItem(binaryTree_t *pHandle, TREE_DATATYPE val);
+void treeToGraphWrapper(treeNode_t *root);
 
 #endif /* BINARYTREE_H_ */
