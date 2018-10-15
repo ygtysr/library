@@ -4,7 +4,7 @@
  * @brief 	This source file just a example for link list usage.
  * @author	Yigit YASAR
  */
-/*its just test*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "linkList.h"
