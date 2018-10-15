@@ -3,6 +3,7 @@
  * @date 	02.07.2018
  * @brief 	This file show you basic link list implementation
  * @author	Yigit YASAR
+ * @warning its not complete
  */
 
 /*******************************************************************************
